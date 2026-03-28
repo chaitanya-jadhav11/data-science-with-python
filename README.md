@@ -1,2 +1,2 @@
-# data-science-with-python
+# Numpy and Pandas
 Numpy and Pandas
